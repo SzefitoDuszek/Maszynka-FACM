@@ -1,0 +1,2 @@
+# Maszynka-FACM
+GENEROWANIE KONT
